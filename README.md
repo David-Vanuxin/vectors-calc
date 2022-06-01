@@ -1,8 +1,10 @@
 # Program for working with vectors in expanse
 ## Usage:
+```bash
   git clone https://github.com/David-Vanuxin/vectors-calckulator/
-  cd vectors-calckulator
-  dotnet run
+```
+cd vectors-calckulator
+dotnet run
 1. Create a three points
 2. Create a two vectors
 3. Select "Calck angle"
